@@ -15,10 +15,6 @@ The board conversation is at risk for three reasons, ranked by how quickly each 
 
 **Evidence:** A Monday CSV export slowed the live site twice last month. At 4,000 orders per day, a checkout failure during a reporting job is not a hypothetical.
 
-**Cost if unresolved:** A single hour of checkout downtime at 4,000 orders per day, assuming an average order value of GHS 150, is roughly GHS 25,000 in lost transactions. The reputational damage with investors who just closed a round is harder to price.
-
-**Board exposure:** If an investor asks "what happens to your site when you run a report?" Nana cannot answer confidently today.
-
 ---
 
 ### Risk 2 — Finance and Operations report different numbers (High Risk)
@@ -26,11 +22,6 @@ The board conversation is at risk for three reasons, ranked by how quickly each 
 **Root cause:** There is no single, agreed definition of revenue or orders. Each team builds its own numbers from independent CSV exports taken at different times.
 
 **Evidence:** Finance's spreadsheet never matches Nana's Monday report. Both teams believe they are correct.
-
-**Cost if unresolved:** The board is making decisions from numbers that cannot be reconciled. If a board member asks Nana and the CFO the same revenue question in the same meeting, the answers will differ.
-
-**Board exposure:** Irreconcilable numbers in a board meeting destroy credibility faster than any other single failure.
-
 ---
 
 ### Risk 3 — Customer data is ungoverned (High Risk, Compliance)
