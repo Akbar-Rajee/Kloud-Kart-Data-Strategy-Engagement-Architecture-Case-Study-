@@ -21,12 +21,12 @@ kloud-kart-data-strategy/
 │
 │
 ├── decisions/
-│   ├── ADR-001-dedicated-reporting-environment.md
-│   ├── ADR-002-warehouse-over-lake-or-lakehouse.md
-│   ├── ADR-003-batch-reporting-default.md
-│   ├── ADR-004-single-revenue-definition.md
-│   ├── ADR-005-customer-data-export-register.md
-│   └── ADR-006-data-engineer-before-analytics-engineer.md
+│   ├── ADR-001-separate-reporting-from-production.md
+│   ├── ADR-002-use-warehouse-architecture.md
+│   ├── ADR-003-use-batch-reporting-by-default.md
+│   ├── ADR-004-establish-single-revenue-definition.md
+│   ├── ADR-005-govern-customer-data-exports.md
+│   └── ADR-006-hire-data-engineer-first.md
 │
 ├── Improvement beyond brief.md
 ├── Kloud Kart slide.pptx
