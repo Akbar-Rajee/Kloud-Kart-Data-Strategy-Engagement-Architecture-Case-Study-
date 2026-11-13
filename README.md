@@ -2,7 +2,7 @@
 
 ## What This Document Is
 
-This is the full submission package for the Kloud Kart Data Strategy Engagement (Architecture Case Study). It was prepared by Akbar Rajee for Nana Adjei, Head of Operations, Kloud Kart, in November 2026.
+This is for the Kloud Kart Data Strategy Engagement (Architecture Case Study). It was prepared by Akbar Rajee for Nana Adjei, Head of Operations, Kloud Kart, in November 2026.
 
 ## What Is Included
 
